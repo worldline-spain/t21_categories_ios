@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>languages</key>
+	<array>
+		<string>en</string>
+	</array>
+	<key>variables</key>
+	<array>
+		<string>key_example</string>
+	</array>
+	<key>configurations</key>
+	<dict>
+		<key>Pre</key>
+		<dict>
+			<key>key_example</key>
+			<string>example value</string>
+		</dict>
+		<key>Pro</key>
+		<dict>
+			<key>key_example</key>
+			<string>example value</string>
+		</dict>
+		<key>Release</key>
+		<dict>
+			<key>key_example</key>
+			<string>example value</string>
+		</dict>
+		<key>Debug</key>
+		<dict>
+			<key>key_example</key>
+			<string>example value</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
